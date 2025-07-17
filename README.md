@@ -99,27 +99,77 @@ I'm a passionate **Full Stack Developer** and **AI Engineer** specializing in bu
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 3D GitHub Analytics & Coding Streak
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaktiprasadram22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadram22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>🔥 3D Coding Streak Visualization</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadram22&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="3D Style Streak" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadram22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaktiprasadram22&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadram22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D GitHub Stats" />
+</div>
+
+<div align="center">
+  <h3>🌟 3D Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktiprasadram22&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="3D Activity Graph" />
+</div>
+
+### 🎯 3D Skills Matrix
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadram22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D Languages" />
+</div>
+
+### 🏆 3D Achievement Showcase
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaktiprasadram22&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="3D Trophies" />
+</div>
+
+---
+
+## 🚀 3D Interactive Elements
+
+### 💻 Live Coding Stats
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🔥 CODING STREAK STATS 🔥                ║
+╠══════════════════════════════════════════════════════════════╣
+║  Current Streak: 🔥 XX Days    │  Longest Streak: 🏆 XX Days ║
+║  Problems Solved: 💡 400+      │  Repositories: 📚 XX+       ║
+║  Commits This Year: 📈 XXX+    │  Languages Used: 🌐 10+     ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### 🎨 3D Skills Visualization
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaktiprasadram22&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D Wakatime Stats" />
 </div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-### 🥇 **Achievements**
-- 🏅 **Top 5 Finalist** - WebKaHackathon (200+ participants)
-- 🚀 **40% Performance Improvement** - API optimization with multithreading
-- 💻 **400+ Problems Solved** - LeetCode & GeeksforGeeks combined
-- ⭐ **5-Star HackerRank** - Problem Solving certification
+### 🥇 **3D Achievement Board**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏅_Top_5_Finalist-WebKaHackathon-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievement 1" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_40%25_Performance-API_Optimization-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Achievement 2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻_400+_Problems-Solved-green?style=for-the-badge&logo=code&logoColor=white" alt="Achievement 3" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐_5_Star-HackerRank-orange?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Achievement 4" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 📜 **Certifications**
 - 🎓 **Cloud Computing** - NPTEL (Oct 2024)
@@ -128,38 +178,38 @@ I'm a passionate **Full Stack Developer** and **AI Engineer** specializing in bu
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 3D Social Connect
 
 <div align="center">
   <a href="https://linkedin.com/in/shaktiram22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="mailto:shaktiram.lucifer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
   </a>
   <a href="https://three-dimension-journey.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="3D Portfolio" />
   </a>
   <a href="https://github.com/shaktiprasadram22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://www.leetcode.com/shaktiprasadram22" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/shakti_prasad_ram" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=298D46" alt="GeeksforGeeks" />
   </a>
   <a href="https://instagram.com/perfect___clicker____" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
   </a>
 </div>
 
 ---
 
-## 💡 What I'm Up To
+## 💡 3D Developer Console
 
 ```javascript
 const shakti = {
@@ -167,32 +217,66 @@ const shakti = {
     learning: ["Advanced RAG Systems", "Vector Databases", "Microservices"],
     collaborating: "AI-powered applications and fintech solutions",
     askMeAbout: ["Full Stack Development", "AI/ML Integration", "System Design"],
-    funFact: "I turn complex problems into elegant solutions! 🚀"
+    funFact: "I turn complex problems into elegant solutions! 🚀",
+    
+    // 3D Stats
+    dimensions: {
+        frontend: "⚡ React, Next.js, Angular",
+        backend: "🔥 Node.js, Python, FastAPI",
+        ai_ml: "🧠 OpenAI, LangChain, RAG",
+        databases: "📊 MongoDB, MySQL, ChromaDB"
+    }
 };
 ```
 
 ---
 
-## 📈 Current Projects Pipeline
+## 📈 3D Project Pipeline
 
-- 🔄 **TradeNexus 2.0** - Advanced portfolio management with AI insights
-- 🤖 **Multi-Modal Chatbot** - Vision + text processing capabilities  
-- 📊 **Real-time Analytics Dashboard** - Live market data visualization
-- 🔐 **Blockchain Integration** - Secure trading transaction system
+<div align="center">
+  <table>
+    <tr>
+      <th>🔄 In Progress</th>
+      <th>🚀 Planned</th>
+      <th>💡 Conceptual</th>
+    </tr>
+    <tr>
+      <td>TradeNexus 2.0</td>
+      <td>Multi-Modal Chatbot</td>
+      <td>Blockchain Integration</td>
+    </tr>
+    <tr>
+      <td>Analytics Dashboard</td>
+      <td>Vision + Text AI</td>
+      <td>Crypto Trading Bot</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔥 3D Contribution Heatmap
+<div align="center">
+  <img src="https://ghchart.rshah.org/00D4FF/shaktiprasadram22" alt="3D Contribution Heatmap" />
+</div>
+
+---
+
+## 🎯 3D Performance Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/shaktiprasadram22?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&repositories=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="3D Metrics" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaktiprasadram22&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <h3>✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
-  <p><strong>Let's build something amazing together!</strong></p>
+  <h3>✨ "In the world of 3D possibilities, flat code is just the beginning!" ✨</h3>
+  <p><strong>Let's build something amazing together in three dimensions!</strong></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=00D4FF" alt="3D Footer" />
 </div>
