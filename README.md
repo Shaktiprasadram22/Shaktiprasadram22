@@ -1,282 +1,123 @@
-# Hi 👋, I'm Shakti Prasad Ram
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Trading+Platform+Architect;Problem+Solver+%26+Innovator" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaktiprasadram22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/shaktiprasadram22?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/shaktiprasadram22?label=Stars&style=social" alt="GitHub stars" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** and **AI Engineer** specializing in building intelligent, scalable applications. Currently pursuing my B.Tech in Computer Science at Lovely Professional University, I love creating innovative solutions that bridge the gap between complex technology and real-world problems.
-
-- 🔭 **Currently Working On**: AI-powered trading platforms and intelligent chatbot systems
-- 🌱 **Learning**: Advanced RAG implementations, Vector databases, and Next.js
-- 💡 **Expertise**: Full-stack development, AI/ML integration, and financial technology
-- 📊 **Achievements**: 400+ coding problems solved, Top 5 finalist in WebKaHackathon
-- 🎯 **Goal**: Building the next generation of intelligent applications
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,html,css,sql" alt="Languages" />
-</p>
-
-### **Frontend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,bootstrap,tailwind" alt="Frontend" />
-</p>
-
-### **Backend Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" alt="Backend" />
-</p>
-
-### **Databases & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker,kubernetes" alt="Databases & Cloud" />
-</p>
-
-### **AI/ML & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 [TradeNexus AI Trading Platform](https://github.com/Shaktiprasadram22/TradeNexus)
-**Advanced AI-powered trading platform with intelligent recommendations**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-- 🧠 **RAG Technology**: Custom retrieval-augmented generation for intelligent stock analysis
-- 📊 **95% Accuracy**: Advanced AI-driven Buy/Sell/Hold recommendations
-- 🔄 **Real-time Data**: Seamless integration with Indian stock market APIs
-- 📈 **8 Trading Features**: Comprehensive analysis including news sentiment processing
-
-### 💬 [UMS Chatbot](https://github.com/Shaktiprasadram22/Ums_chatbot_01)
-**Intelligent university assistant with RAG-powered responses**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-
-- 🔍 **Semantic Search**: FAISS-powered vector similarity for accurate responses
-- 🎓 **Academic Focus**: Handles CGPA, results, course registration, and administrative queries
-- 🏗️ **Modern Architecture**: React frontend with Python backend integration
-- 📚 **Knowledge Base**: Structured JSON data for instant student support
-
-### 🔌 [SentinelDataCore API](https://github.com/Shaktiprasadram22/Sentinel_DataCore)
-**High-performance financial data API with enterprise-grade features**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-
-- ⚡ **99.9% Uptime**: Enterprise-grade reliability for financial data delivery
-- 🔒 **JWT Authentication**: Secure role-based access control system
-- 📊 **60% Performance Boost**: Intelligent LRU caching for high-traffic endpoints
-- 👥 **10K+ Concurrent Users**: Scalable architecture for mass adoption
-
----
-
-## 📊 3D GitHub Analytics & Coding Streak
-
-<div align="center">
-  <h3>🔥 3D Coding Streak Visualization</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadram22&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="3D Style Streak" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,55:0E7490,100:2DD4BF&text=Shakti%20Prasad%20Ram&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20GenAI%20%E2%80%A2%20Backend%20%E2%80%A2%20Technical%20SEO&descAlignY=58&animation=fadeIn" alt="Shakti Prasad Ram — Software Engineer" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadram22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D GitHub Stats" />
+  <a href="https://shakti-portfolio-xi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/shaktiram22">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shaktiram.lucifer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<div align="center">
-  <h3>🌟 3D Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaktiprasadram22&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="3D Activity Graph" />
-</div>
+<p align="center">
+  <strong>SDE I / SDE II-focused engineer building reliable AI products, observable backend systems, and search-ready web platforms.</strong>
+</p>
 
-### 🎯 3D Skills Matrix
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadram22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D Languages" />
-</div>
+## Engineering beyond the demo
 
-### 🏆 3D Achievement Showcase
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaktiprasadram22&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="3D Trophies" />
-</div>
+I build the parts that make software dependable after the happy path: tenant boundaries, background delivery, idempotency, failure recovery, local-first privacy, measurable performance, and release verification.
 
----
+My current work sits at the intersection of:
 
-## 🚀 3D Interactive Elements
+- **GenAI and agent orchestration** — RAG, vector retrieval, tool-driven agents, OpenAI/Codex integration, OpenClaw workflows, delegation, validation, and approval gates.
+- **Backend and distributed systems** — Node.js, Fastify, Express, Python, FastAPI, MongoDB, Redis Streams/Pub/Sub, SSE, RBAC, JWT, transactional outbox, and local SDK evaluation.
+- **Observability and delivery** — OpenTelemetry, Prometheus, Grafana, structured logging, Docker, CI, load testing, and failure drills.
+- **Technical SEO and edge deployment** — Astro, structured data, canonical URLs, sitemaps, Core Web Vitals, PWA/offline behavior, CSP, and Cloudflare Pages.
+- **Systems engineering** — Linux interfaces, Python CLI/GTK tooling, C++ networking, concurrency, sockets, and LRU caching.
 
-### 💻 Live Coding Stats
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🔥 CODING STREAK STATS 🔥                ║
-╠══════════════════════════════════════════════════════════════╣
-║  Current Streak: 🔥 XX Days    │  Longest Streak: 🏆 XX Days ║
-║  Problems Solved: 💡 400+      │  Repositories: 📚 XX+       ║
-║  Commits This Year: 📈 XXX+    │  Languages Used: 🌐 10+     ║
-╚══════════════════════════════════════════════════════════════╝
+> I prefer evidence over adjectives: tested failure modes, explicit security boundaries, reproducible benchmarks, and honest limitations.
+
+## Current direction: approval-first AI orchestration
+
+```text
+Ask → Plan → Delegate → Execute → Validate → Deliver
 ```
 
-### 🎨 3D Skills Visualization
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaktiprasadram22&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_radius=10" alt="3D Wakatime Stats" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-### 🥇 **3D Achievement Board**
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🏅_Top_5_Finalist-WebKaHackathon-gold?style=for-the-badge&logo=trophy&logoColor=white" alt="Achievement 1" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_40%25_Performance-API_Optimization-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Achievement 2" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_400+_Problems-Solved-green?style=for-the-badge&logo=code&logoColor=white" alt="Achievement 3" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/⭐_5_Star-HackerRank-orange?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Achievement 4" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📜 **Certifications**
-- 🎓 **Cloud Computing** - NPTEL (Oct 2024)
-- 📊 **Data Structures & Algorithms** - GeeksforGeeks (Jul 2024)
-- 🔧 **Server-side JavaScript with Node.js** - Coursera (May 2024)
-
----
-
-## 🌐 3D Social Connect
+I am exploring local AI mission-control systems where agents use typed tools, delegate bounded work, preserve durable task history, and pause before consequential actions. The focus is not just autonomous execution—it is controllable, inspectable execution.
 
 <div align="center">
-  <a href="https://linkedin.com/in/shaktiram22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shaktiram.lucifer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-  </a>
-  <a href="https://three-dimension-journey.lovable.app/" target="_blank">
-    <img src="https://img.shields.io/badge/3D_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="3D Portfolio" />
-  </a>
-  <a href="https://github.com/shaktiprasadram22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/OpenAI-Agent_Systems-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI agent systems" />
+  <img src="https://img.shields.io/badge/OpenClaw-Orchestration-0F766E?style=flat-square" alt="OpenClaw orchestration" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_%2B_Generation-0891B2?style=flat-square" alt="Retrieval augmented generation" />
+  <img src="https://img.shields.io/badge/Agents-Approval_First-F59E0B?style=flat-square" alt="Approval-first agents" />
 </div>
+
+## Selected engineering work
+
+| Project | What it demonstrates | Core stack |
+| --- | --- | --- |
+| [**Northstar Feature Flag Platform**](https://github.com/Shaktiprasadram22/feature-flag-platform) | Multi-tenant control/data planes, deterministic rollouts, transactional outbox, Redis delivery, SSE, local SDK decisions, RBAC, observability, E2E and load tests | TypeScript, Fastify, MongoDB, Redis, React, OTel, Docker |
+| [**DeviceLab**](https://github.com/Shaktiprasadram22/device-lab) | 30 private browser hardware tests, 9 guided inspections, local reports, offline PWA, accessible UX, and static edge deployment with no application backend | Astro, TypeScript, IndexedDB, Web APIs, Cloudflare Pages |
+| [**ASUS TUF RGB**](https://github.com/Shaktiprasadram22/asus-tuf-rgb) | Dependency-free Linux hardware control through upstream kernel interfaces, safe session writes, verified profiles, GTK UI, and systemd integration | Python, GTK 4, Linux sysfs, systemd |
+| [**UMS RAG Chatbot**](https://github.com/Shaktiprasadram22/Ums_chatbot_01) | University knowledge retrieval with semantic search and context-aware responses across a full-stack application | React, Express, Python, LangChain, FAISS, OpenAI |
+| [**Multi-threaded Proxy Server**](https://github.com/Shaktiprasadram22/MultiThreadedProxyServer) | Concurrent socket handling and a thread-safe LRU cache in a systems-level HTTP proxy | Modern C++, POSIX sockets, threads |
+| [**SentinelDataCore**](https://github.com/Shaktiprasadram22/SentinelDataCore) | Authenticated REST APIs, bulk operations, role boundaries, persistence, and application-level caching | Node.js, Express, MongoDB, JWT |
+
+### Measured systems evidence
+
+The Northstar platform includes reproducible local benchmarks—not production SLO claims:
+
+- **1,269,098 local SDK evaluations/second** across a 1,000,000-evaluation run.
+- **6.09 ms p95** for authenticated configuration reads.
+- **254.27 ms p95** commit-to-local-SDK propagation after isolating a Redis blocking-connection bottleneck.
+
+The repository includes the benchmark commands, host context, thresholds, failure scenarios, ADRs, and trade-offs behind those numbers.
+
+## Toolbox
 
 <div align="center">
-  <a href="https://www.leetcode.com/shaktiprasadram22" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/shakti_prasad_ram" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=298D46" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://instagram.com/perfect___clicker____" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nodejs,fastapi,react,nextjs,astro" alt="Languages and frameworks: TypeScript, JavaScript, Python, C++, Node.js, FastAPI, React, Next.js, Astro" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,docker,linux,cloudflare,grafana,git,github,githubactions" alt="Infrastructure and tools: MongoDB, Redis, Docker, Linux, Cloudflare, Grafana, Git, GitHub, GitHub Actions" />
 </div>
 
----
+<br />
 
-## 💡 3D Developer Console
+| Area | What I work with |
+| --- | --- |
+| **AI systems** | RAG pipelines, embeddings, vector search, prompt/tool contracts, agent routing, evaluation, approval-first orchestration |
+| **Backend** | REST APIs, SSE, background jobs, caching, authentication, authorization, multi-tenancy, event delivery |
+| **Reliability** | Idempotency, retry/DLQ, last-known-good state, health checks, metrics, traces, logs, load tests |
+| **Web products** | React, Astro, accessible UI, browser APIs, IndexedDB, PWA, privacy-first client processing |
+| **SEO and edge** | Crawlable static architecture, Schema.org, metadata, canonical/sitemap strategy, Cloudflare Pages, performance budgets |
 
-```javascript
-const shakti = {
-    currentFocus: "Building intelligent trading platforms",
-    learning: ["Advanced RAG Systems", "Vector Databases", "Microservices"],
-    collaborating: "AI-powered applications and fintech solutions",
-    askMeAbout: ["Full Stack Development", "AI/ML Integration", "System Design"],
-    funFact: "I turn complex problems into elegant solutions! 🚀",
-    
-    // 3D Stats
-    dimensions: {
-        frontend: "⚡ React, Next.js, Angular",
-        backend: "🔥 Node.js, Python, FastAPI",
-        ai_ml: "🧠 OpenAI, LangChain, RAG",
-        databases: "📊 MongoDB, MySQL, ChromaDB"
-    }
-};
+## How I approach a system
+
+```text
+Correctness first
+  ├── define ownership and trust boundaries
+  ├── make failure and recovery explicit
+  ├── measure the critical path
+  ├── automate the release gate
+  └── document what the system cannot guarantee
 ```
 
----
-
-## 📈 3D Project Pipeline
+## GitHub activity
 
 <div align="center">
-  <table>
-    <tr>
-      <th>🔄 In Progress</th>
-      <th>🚀 Planned</th>
-      <th>💡 Conceptual</th>
-    </tr>
-    <tr>
-      <td>TradeNexus 2.0</td>
-      <td>Multi-Modal Chatbot</td>
-      <td>Blockchain Integration</td>
-    </tr>
-    <tr>
-      <td>Analytics Dashboard</td>
-      <td>Vision + Text AI</td>
-      <td>Crypto Trading Bot</td>
-    </tr>
-  </table>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaktiprasadram22&theme=github_dark" alt="Shakti's GitHub contribution summary" />
 </div>
 
----
-
-## 🔥 3D Contribution Heatmap
 <div align="center">
-  <img src="https://ghchart.rshah.org/00D4FF/shaktiprasadram22" alt="3D Contribution Heatmap" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaktiprasadram22&theme=github_dark" alt="Shakti's GitHub statistics" />
+  <img height="175" src="https://streak-stats.demolab.com?user=Shaktiprasadram22&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Shakti's contribution streak" />
 </div>
 
----
+## Let’s build something real
 
-## 🎯 3D Performance Metrics
+I am interested in software engineering, GenAI/backend, platform, and AI-agent work where system design and implementation both matter.
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/shaktiprasadram22?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&repositories=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata" alt="3D Metrics" />
+  <a href="mailto:shaktiram.lucifer@gmail.com">
+    <img src="https://img.shields.io/badge/Discuss_an_opportunity-Email_me-0F766E?style=for-the-badge" alt="Email Shakti about an opportunity" />
+  </a>
 </div>
 
----
-
 <div align="center">
-  <h3>✨ "In the world of 3D possibilities, flat code is just the beginning!" ✨</h3>
-  <p><strong>Let's build something amazing together in three dimensions!</strong></p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=00D4FF" alt="3D Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2DD4BF,50:0E7490,100:0D1117" alt="" />
 </div>
