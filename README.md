@@ -145,7 +145,7 @@ Correctness first
 
 <div align="center">
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaktiprasadram22&theme=github_dark" alt="Shakti's GitHub statistics" />
-  <img height="175" src="https://streak-stats.demolab.com?user=Shaktiprasadram22&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Shakti's contribution streak" />
+  <img height="175" src="https://streak-stats.demolab.com/?user=Shaktiprasadram22&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=2DD4BF&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC&timezone=Asia%2FKolkata&disable_animations=true" alt="Shakti's contribution streak" />
 </div>
 
 ## Let’s build something real
